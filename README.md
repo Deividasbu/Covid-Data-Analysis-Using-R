@@ -1,1 +1,4 @@
-# Covid-Data-Analysis-Using-R
+# Covid Data Analysis Using R
+
+The analysis was done together with my teammate for the Computational Data Analysis subject at Vilnius University.   
+The job can be found in the notebook above.
